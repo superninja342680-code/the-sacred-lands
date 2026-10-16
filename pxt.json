@@ -1,0 +1,26 @@
+{
+    "name": "The Sacred Lands",
+    "description": "Darkness has fallen over the Sacred Lands. Ancient dungeons have awakened, unleashing monsters across the kingdom. As the chosen hero, you must battle through four challenging dungeons, defeat powerful bosses, collect sacred keys, and unlock the path to the final battle. Fight your way to victory and restore peace to the realm in this Zelda-inspired action adventure created with Microsoft MakeCode Arcade.",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.1.25",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
